@@ -1,0 +1,6 @@
+[Unit]
+Description=Teave-sv systemd service.
+
+[Service]
+Type=exec
+ExecStart=/usr/lib/teave/teave-sv

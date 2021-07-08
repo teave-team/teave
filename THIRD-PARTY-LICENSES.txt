@@ -1,0 +1,25 @@
+Third-party Licenses
+
+The following is a list of libraries/software included in this package.
+The list is formatted as follow:
+Name of library/software
+Name of license
+URL of the license
+
+A copy of the following licenses are also included in "licenses/" folder.
+
+Boost
+Boost Software License - Version 1.0
+https://www.boost.org/LICENSE_1_0.txt
+
+Catch2
+Boost Software License - Version 1.0
+https://github.com/catchorg/Catch2/blob/devel/LICENSE.txt
+
+OpenGL Mathematics (GLM)
+The Happy Bunny License and MIT License
+https://glm.g-truc.net/copying.txt
+
+stb_image
+MIT License and Public Domain
+https://github.com/nothings/stb/blob/master/LICENSE

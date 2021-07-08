@@ -1,0 +1,15 @@
+Copyright 2021 Pedram Tiv
+
+Licensed under the Teave Public License (the "License");
+You may obtain a copy of the License at https://www.teave.io/teave-public-license.html 
+
+This software is distributed under the License on an 
+"AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND, either express or implied.
+See the License for the specific language governing terms and conditions 
+for use, reproduction, and distribution.
+
+In addition other licenses may apply, see THIRD-PARTY-LICENSES.txt for a list of 
+third party libraries/software that are used in this package with their respective 
+license information.
+
+All contributions to this software are subject to this COPYING file.

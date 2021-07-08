@@ -1,0 +1,150 @@
+                                    Teave Public License
+                                       March 22, 2021
+
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+1. Definitions
+    1.1. “License” shall mean the terms and conditions for use, reproduction, and distribution as
+    defined by this document.
+
+    1.2. “Licensor” shall mean the copyright owner or entity authorized by the copyright owner that is
+    granting the License.
+
+    1.3. “Legal Entity” shall mean the union of the acting entity and all other entities that control, are
+    controlled by, or are under common control with that entity. For the purposes of this
+    definition, “control” means (i) the power, direct or indirect, to cause the direction or
+    management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent
+    (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
+
+    1.4. “Interact” (or “Interaction”) shall mean any form of communication between software,
+    hardware, networks, or users in which information is exchanged, whether directly or indirectly.
+
+    1.5. “Source” form shall mean the preferred form for making modifications, including but not
+    limited to software source code, documentation source, and configuration files.
+
+    1.6. “Object” form shall mean any form resulting from transformation or translation of a Source
+    form to other media types, including but not limited to compiled object code, generated
+    binaries, and generated documentation.
+
+    1.7. “As A Service” shall mean any product, website, or software which makes the Source form or
+    Object form available for Interaction with user(s), or other software, whether directly or
+    indirectly.
+
+    1.8. “Work” shall mean the work of authorship, whether in Source or Object form, made available
+    under the License, as indicated by a copyright notice that is included in or attached to the work
+    (an example of a copyright notice is provided in the Appendix below).
+
+    1.9. “Derivative Works” shall mean any work, whether in Source form or Object form, that is based
+    on (or derived from) the Work. For the purposes of this License, Derivative Works shall include
+    any work that is, as a whole, the result of modification(s)to the Work or Derivative Works
+    thereof. For the purposes of this License, Derivative Works shall not include works that remain 
+    separable from, or merely link (whether statically or dynamically) to the interfaces of, the Work
+    or Derivative Works thereof.
+
+    1.10. “Contribution” shall mean any work of authorship, including the original version of the
+    Work and any modifications or additions to that Work or Derivative Works thereof, that is
+    intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an
+    individual or a Legal Entity authorized to submit on behalf of the copyright owner. For the
+    purposes of this definition, “submitted” means any form of electronic, verbal, or written
+    communication sent to the Licensor or its representatives, including but not limited to
+    communication on electronic mailing lists, source code control systems, and issue tracking
+    systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and
+    improving the Work, but excluding communication that is conspicuously marked or otherwise
+    designated in writing by the copyright owner as “Not a Contribution”.
+
+    1.11. “Contributor” shall mean Licensor and any individual or Legal Entity on behalf of whom
+    a Contribution has been received by Licensor and subsequently incorporated within the Work.
+
+    1.12. “You” (or “Your”) shall mean an individual or Legal Entity exercising permissions
+    granted by this License.
+
+2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor
+hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, and
+distribute the Work, or Derivative Works thereof, in Source form, Object form, or As A Service,
+provided that You meet all of the following conditions:
+
+    2.1. Work, or Derivative Works thereof, that You distribute (whether in Source form, Object form,
+    or As A Service) must be licensed under this License, without any additional terms or
+    conditions.
+
+    2.2. You must inform recipients of the Work, or Derivative Works thereof, that You distribute
+    (whether in Source form, Object form, or As A Service), that the said Work or Derivative Works
+    are governed by the terms and conditions of this License, and how they can obtain a copy of
+    this License.
+
+    2.3. You must make the Source form of Derivative Works that you distribute (whether in Source
+    form, Object form, or As A Service), freely and publicly available for download. You must inform
+    the recipients of the said Work or Derivative Works that the Source form is available for 
+    download, and You must provide the location from where they can freely download the said
+    Source form.
+
+    2.4. You must retain, in the Source form of any Derivative Works that You distribute, all copyright,
+    patent, trademark, and attribution notices from the Source form of the Work, excluding those
+    notices that do not pertain to any part of the Derivative Works.
+
+    2.5. If the Work, or Derivative Works thereof, include a "NOTICE" text file in the Source form, then
+    Derivative Works that You distribute must include a readable copy of the attribution notices
+    contained within such NOTICE file, excluding those notices that do not pertain to any part of
+    the Derivative Works that You distribute, in a NOTICE text file within the Source form. The
+    contents of the NOTICE file are for informational purposes only and do not modify the License.
+    You may add Your own attribution notices within Derivative Works that You distribute,
+    alongside or as an addendum to the NOTICE text from the Work, or Derivative Works thereof,
+    provided that such additional attribution notices cannot be construed as modifying the License.
+
+3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor
+hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+(except as stated in this License) patent license to make, have made, use, offer to sell, sell, import,
+and otherwise transfer the Work, where such license applies only to those patent claims licensable by
+such Contributor that are infringed by their Contribution(s) alone or by combination of their
+Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent
+litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the
+Work or a Contribution incorporated within the Work constitutes direct or contributory patent
+infringement, then any patent licenses granted to You under this License for that Work shall
+terminate as of the date such litigation is filed.
+
+4. Trademarks. This License does not grant permission to use the trade names, trademarks, service
+marks, product names or logos of the Licensor or any Contributor, except as required for
+reproducing the content of the NOTICE file.
+
+5. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides
+the Work (and each Contributor provides its Contributions) on an "AS IS" BASIS, WITHOUT
+WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation,
+any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or 
+redistributing the Work, or Derivative Works thereof, and assume any risks associated with Your
+exercise of permissions under this License.
+
+6. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence),
+contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent
+acts) or agreed to in writing, shall the Licensor or any Contributor be liable to You for damages,
+including any direct, indirect, special, incidental, or consequential damages of any character arising
+as a result of this License or out of the use or inability to use the Work (including but not limited to
+damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other
+commercial damages or losses), even if such Licensor or Contributor has been advised of the
+possibility of such damages.
+
+7. Accepting Warranty or Additional Liability. While redistributing the Work, or Derivative Works
+thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity,
+or other liability obligations and/or rights consistent with this License. However, in accepting such
+obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of
+any other Licensor or Contributor, and only if You agree to indemnify, defend, and hold each
+Licensor or Contributor harmless for any liability incurred by, or claims asserted against, such
+Licensor or Contributor by reason of your accepting any such warranty or additional liability.
+
+If any provision of this license is held to be invalid, void, or unenforceable, the remaining provisions shall
+nevertheless continue in full force and effect without being impaired or invalidated in any way.
+
+END OF TERMS AND CONDITIONS
+
+
+APPENDIX: An example of a copyright notice
+
+Copyright [yyyy] [name of copyright owner]
+
+Licensed under the Teave Public License (the "License");
+You may obtain a copy of the License at https://www.teave.io/teave-public-license.html
+
+This software is distributed under the License on an "AS IS" BASIS, WITHOUT WARRANTIES OF ANY KIND,
+either express or implied. See the License for the specific language governing terms and conditions for
+use, reproduction, and distribution.

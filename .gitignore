@@ -1,0 +1,8 @@
+bin/*
+build*/*
+!build*/CMakeLists.txt
+test/tmp/*
+!*/README*
+
+# editors
+.vscode

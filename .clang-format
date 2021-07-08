@@ -1,0 +1,9 @@
+---
+BasedOnStyle: LLVM
+IndentWidth: 4
+---
+Language: Cpp
+AccessModifierOffset: -4
+CompactNamespaces: false
+FixNamespaceComments: true
+SortIncludes: false

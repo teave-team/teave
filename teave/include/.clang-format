@@ -1,0 +1,4 @@
+# ignore files in this dir
+# ref: https://stackoverflow.com/questions/50647960/how-to-ignore-files-or-directories-with-clang-format-3-9
+DisableFormat: true
+SortIncludes: false
